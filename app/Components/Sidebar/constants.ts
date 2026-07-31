@@ -22,16 +22,16 @@ export const navItems: NavItem[] = [
     icon: Building2,
   },
   {
+    href: "/src/create-vendor",
+    label: "Create Vendor",
+    description: "Add a new vendor",
+    icon: UserPlus,
+  },
+  {
     href: "/src/performance",
     label: "Performance",
     description: "Scores and trends",
     icon: LineChart,
-  },
-  {
-    href: "/src/notifications",
-    label: "Notifications",
-    description: "Alerts and updates",
-    icon: Bell,
   },
   {
     href: "/src/approvals",
@@ -40,9 +40,9 @@ export const navItems: NavItem[] = [
     icon: CheckCircle2,
   },
   {
-    href: "/src/create-vendor",
-    label: "Create Vendor",
-    description: "Add a new vendor",
-    icon: UserPlus,
+    href: "/src/notifications",
+    label: "Notifications",
+    description: "Alerts and updates",
+    icon: Bell,
   },
 ];

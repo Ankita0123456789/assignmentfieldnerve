@@ -1,9 +1,7 @@
-import React from 'react'
+import VendorApprovalView from "../components/vendor-approval-workflow/VendorApproval";
 
 const Approval = () => {
-  return (
-    <div>Approval</div>
-  )
-}
+  return <VendorApprovalView />;
+};
 
-export default Approval
+export default Approval;

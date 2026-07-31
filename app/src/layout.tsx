@@ -3,5 +3,5 @@ export default function SrcLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return <div className="px-8 py-10">{children}</div>;
+  return <div className="px-4 py-4">{children}</div>;
 }

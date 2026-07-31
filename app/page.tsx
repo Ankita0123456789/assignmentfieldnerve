@@ -3,7 +3,7 @@ import { navItems } from "@/app/Components/Sidebar";
 
 export default function Home() {
   return (
-    <div className="mx-auto max-w-3xl px-8 py-10">
+    <div className="mx-auto max-w-3xl px-4 py-4">
       <p className="text-xs font-medium uppercase tracking-[0.14em] text-zinc-500">
         Overview
       </p>

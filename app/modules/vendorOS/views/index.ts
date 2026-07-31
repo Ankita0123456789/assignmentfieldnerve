@@ -4,5 +4,14 @@ import Dashboard from "./Dashboard";
 import Directory from "./Directory";
 import Notification from "./Notification";
 import Performance from "./Performance";
+import VendorDetail from "./VendorDetail";
 
-export { Approval, CreateVendor, Dashboard, Directory, Notification, Performance };
+export {
+  Approval,
+  CreateVendor,
+  Dashboard,
+  Directory,
+  Notification,
+  Performance,
+  VendorDetail,
+};

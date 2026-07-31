@@ -1,9 +1,7 @@
-import React from 'react'
+import NotificationView from "../components/notifications/Notification";
 
 const Notification = () => {
-  return (
-    <div>Notification</div>
-  )
-}
+  return <NotificationView />;
+};
 
-export default Notification
+export default Notification;

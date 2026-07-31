@@ -1,9 +1,7 @@
-import React from 'react'
+import PerformanceView from "../components/performace/Performance";
 
 const Performance = () => {
-  return (
-    <div>Performance</div>
-  )
-}
+  return <PerformanceView />;
+};
 
-export default Performance
+export default Performance;

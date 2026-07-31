@@ -1,9 +1,7 @@
-import React from 'react'
+import DirectoryView from "../components/vendor-directory/Directory";
 
 const Directory = () => {
-  return (
-    <div>Directory</div>
-  )
-}
+  return <DirectoryView />;
+};
 
-export default Directory
+export default Directory;
